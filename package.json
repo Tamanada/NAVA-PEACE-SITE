@@ -2,7 +2,7 @@
   "name": "nava-peace-site",
   "version": "1.0.0",
   "private": true,
-"homepage": "https://tamanada.github.io/NAVA-PEACE-SITE",
+"homepage": "https://tamanada.github.io/NAVA-PEACE-SITE/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
