@@ -1,0 +1,1 @@
+export default function Foundation(){return(<div>Foundation Page</div>);}
